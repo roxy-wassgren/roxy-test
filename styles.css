@@ -116,6 +116,17 @@ h2 {
   line-height: 1.65;
 }
 
+.site-footer {
+  padding: 20px 16px;
+  text-align: center;
+  background: #0057b8;
+  color: #ffffff;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
 @media (max-width: 720px) {
   .page {
     width: min(100% - 20px, 1180px);
