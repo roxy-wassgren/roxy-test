@@ -1,24 +1,24 @@
-# Världens 10 största djur
+# The 10 Largest Animals In The World
 
-Här är en praktisk topp 10-lista där vikt eller längd inte spelar någon avgörande roll var för sig, utan där "störst" tolkas brett utifrån allmänt kända jättedjur.
+Here is a practical top 10 list where weight or length is not treated as the only deciding factor on its own, but where "largest" is interpreted broadly based on widely known giant animals.
 
-1. **Blåval**  
-   Jordens största djur någonsin, enorm både i vikt och längd.
-2. **Fenval**  
-   Näst största valarten och ett av världens längsta och tyngsta djur.
-3. **Kaskelot**  
-   Den största tandvalen och en av havets verkliga tungviktare.
-4. **Valhaj**  
-   Världens största fisk, med imponerande längd och kroppsmassa.
-5. **Basking shark / brugd**  
-   Näst största fisken i världen, enorm men fredlig planktonätare.
-6. **Afrikansk elefant**  
-   Det största landdjuret som lever idag.
-7. **Vit noshörning**  
-   Ett av de tyngsta landlevande däggdjuren efter elefanten.
-8. **Flodhäst**  
-   Extremt kraftig kropp och tillhör de allra största landdjuren.
-9. **Giraff**  
-   Inte tyngst, men världens högsta landdjur gör den självklar här.
-10. **Saltvattenskrokodil**  
-    Den största nu levande reptilen, med imponerande längd och massa.
+1. **Blue whale**  
+   The largest animal ever to live on Earth, enormous in both weight and length.
+2. **Fin whale**  
+   The second-largest whale species and one of the longest and heaviest animals in the world.
+3. **Sperm whale**  
+   The largest toothed whale and one of the ocean's true heavyweights.
+4. **Whale shark**  
+   The world's largest fish, with impressive length and body mass.
+5. **Basking shark**  
+   The second-largest fish in the world, enormous but a peaceful plankton eater.
+6. **African elephant**  
+   The largest land animal alive today.
+7. **White rhinoceros**  
+   One of the heaviest land mammals after the elephant.
+8. **Hippopotamus**  
+   Extremely powerful in build and one of the very largest land animals.
+9. **Giraffe**  
+   Not the heaviest, but the world's tallest land animal clearly earns its place here.
+10. **Saltwater crocodile**  
+    The largest living reptile, with impressive length and mass.

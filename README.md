@@ -1,34 +1,34 @@
 # Djurgalleriet
 
-Det här projektet är en enkel statisk första sida som visar ett galleri med stora djur. Sidan är byggd med vanlig HTML och CSS och kan serveras lokalt via ett npm-script utan något frontend-ramverk.
+This project is a simple static landing page that displays a gallery of large animals. The page is built with plain HTML and CSS and can be served locally through an npm script without any frontend framework.
 
-## Innehåll
+## Contents
 
-- `index.html` innehåller sidans struktur och djurkorten.
-- `styles.css` innehåller layout, färger och typografi.
-- `ANIMALS.md` är källtexten med listan över djuren.
-- `package.json` innehåller scriptet för lokal server.
+- `index.html` contains the page structure and the animal cards.
+- `styles.css` contains the layout, colors, and typography.
+- `ANIMALS.md` is the source text with the list of animals.
+- `package.json` contains the script for the local server.
 
-## Kör lokalt
+## Run Locally
 
-Kräver `npm` och `python3`.
+Requires `npm` and `python3`.
 
 ```bash
 npm run serve
 ```
 
-Det startar en enkel statisk server på:
+This starts a simple static server at:
 
 ```text
 http://localhost:3000
 ```
 
-## Om sajten
+## About The Site
 
-Sidan fungerar som en första landningssida med:
+The page works as an initial landing page with:
 
-- en tydlig hero-sektion
-- ett responsivt galleri med djurbilder
-- extern bildinläsning via Wikimedia Commons
+- a clear hero section
+- a responsive gallery with animal images
+- external image loading via Wikimedia Commons
 
-Eftersom det är en statisk site är den enkel att vidareutveckla med fler sidor, lokal bildhantering eller JavaScript senare om det behövs.
+Because it is a static site, it is easy to extend later with more pages, local image handling, or JavaScript if needed.
